@@ -4,7 +4,6 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-
 class Medicine extends Model
 {
     const CREATED_AT = 'creation_date';

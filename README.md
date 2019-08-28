@@ -30,6 +30,8 @@ Para migrar la base de datos y crear el esquema, utilice el siguiente comando:
 
 php artisan migrate
 
+Adicionalmente puede encontrar el esquema de la base de datos en /sql_schema/tables.sql
+
 **Credenciales de acceso:**
 
 Las credenciales para ingresar al sistema se generarán automáticamente y se mostrarán en la pantalla de inicio.
