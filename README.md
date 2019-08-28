@@ -43,3 +43,12 @@ Adicionalmente existe un formulario de registro.
 Ubicarse en el directorio raiz desde CMD y ejecutar:
 
 php artisan serve
+
+**Capturas de pantalla**
+
+![SPLASH INICIAL](https://i.imgur.com/evmsjr6.png)
+![REGISTRO DE USUARIO](https://i.imgur.com/WVY78w9.png)
+![INICIAR SESIÓN](https://i.imgur.com/HZNJ8Fq.png)
+![LISTADO DE MEDICAMENTOS](https://i.imgur.com/fwFdzAE.png)
+![EDITAR ELEMENTO](https://i.imgur.com/Vf0aGSF.png)
+![README](https://i.imgur.com/Bx9hBV0.png)
